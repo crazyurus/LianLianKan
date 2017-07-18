@@ -1,6 +1,8 @@
 欢乐连连看
 ======================================
 主要使用 JavaScript 开发，核心代码位于 `assets/js/lianliankan.js` 中
+[在线预览](https://crazyurus.github.io/LianLianKan)
+
 ### 用法
 请使用现代浏览器打开 `index.html` 即可。
 > ### 注意
